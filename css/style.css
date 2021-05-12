@@ -1202,7 +1202,7 @@ body {
 
   .team__list {
     display: block;
-    width: 330px;
+    max-width: 330px;
     margin: 0 auto;
   }
 
